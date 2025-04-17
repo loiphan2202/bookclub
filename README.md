@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mybookshophonmi
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# bookclub
+>>>>>>> 58b983973aa49298a88569b08b72a96ef3faf70f
